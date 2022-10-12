@@ -1,8 +1,8 @@
 # OG1
 
-Ocean Glider Network Parameter Usage Vocabulary (OG1.0).
+OceanGliders Parameter Usage Vocabulary (OG1).
 
-Terms in this vocabulary are under the content governance of the OceanGliders Data Management Task Team on behalf of the <a href="https://github.com/OceanGlidersCommunity" rel="nofollow">OceanGliders community</a> and Everyone's Gliding Observatories (EGO). Terms describe measured phenomena within the OG/EGO format. 
+Terms in this vocabulary are under the content governance of the OceanGliders Data Management Task Team (OGDMTT) on behalf of the <a href="https://github.com/OceanGlidersCommunity" rel="nofollow">OceanGliders community</a> and Everyone's Gliding Observatories (EGO). Terms describe measured phenomena within the OG/EGO format. 
 
 This vocabulary is available from:
 
