@@ -6,7 +6,7 @@ Terms in this vocabulary are hosted on the NERC Vocabulary Server (NVS) but unde
 
 ## New term requests
 
-Discussions and requests for new OG1 terms should commence at the <a href="https://github.com/OceanGlidersCommunity/OG-format-user-manual/issues">OceanGlidersCommunity OG-format-user-manual</a> repository. Approval should be comfirmed by OGDNMTT before bringing the request to this repo. Please ensure new OG1 tickets are linked to the associated OceanGlidersCommunity ticket. 
+Discussions and requests for new OG1 terms should commence at the <a href="https://github.com/OceanGlidersCommunity/OG-format-user-manual/issues">OceanGlidersCommunity OG-format-user-manual</a> repository. Approval should be comfirmed by OGDMTT before bringing the request to this repo. Please ensure new OG1 tickets are linked to the associated OceanGlidersCommunity ticket. 
 
 ## View and search the OG1 collection
 
