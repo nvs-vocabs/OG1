@@ -9,11 +9,6 @@ body:
     attributes:
       value: |
         Before submitting a term, please ensure you have first created a ticket for discussion in the [community repository](https://github.com/OceanGlidersCommunity/OG-format-user-manual/issues).
-
- body:
-  - type: markdown
-    attributes:
-      value: |
         Please provide the following information (all fields are mandatory unless specified otherwise). If you are unsure about a particular field, please either make an attempt or leave it blank. Queries can be discussed in the ticket comments.
 
   - type: input
@@ -47,7 +42,7 @@ body:
       label: "Mapping to P01 terminology"
       description: "If your submission relates to an existing term in the [BODC P01 Parameter Usage Vocabulary](http://vocab.nerc.ac.uk/collection/P01/current/), please enter the URI"
     
-    - type: textarea
+  - type: textarea
     id: units
     attributes:
       label: "Expected units"
