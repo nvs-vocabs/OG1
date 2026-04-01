@@ -29,7 +29,7 @@ body:
     id: definition
     attributes:
       label: "Definition"
-      description: "Please provide a proposed definition for the unit"
+      description: "Please provide a proposed definition for the parameter"
       placeholder: "e.g., Raw backscattering sensor signal (count) at 700 nm wavelength. Volume scattering scale factor has not been applied."
 
   - type: markdown
