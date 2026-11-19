@@ -8,6 +8,8 @@ Terms in this vocabulary are hosted on the NERC Vocabulary Server (NVS) but unde
 
 Discussions and requests for new OG1 terms should commence at the <a href="https://github.com/OceanGlidersCommunity/OG-format-user-manual/issues">OceanGlidersCommunity OG-format-user-manual</a> repository. Approval should be comfirmed by OGDMTT before bringing the request to this repo. Please ensure new OG1 tickets are linked to the associated OceanGlidersCommunity ticket. 
 
+Once approved, new OG1 requests can be submitted as [regular issues](https://github.com/nvs-vocabs/OG1/issues) in this repository or emailed to vocab.services-at-bodc.ac.uk.
+
 ## View and search the OG1 collection
 
 <a href="https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/OG1/" rel="nofollow">OG1 search interface</a>
